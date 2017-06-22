@@ -4,7 +4,7 @@ import traceback
 
 from eccodes import *
 
-from grib2pythonarray import grib2array
+from grib2python import grib2array
 
 VERBOSE = 1  # verbose error reporting
 
